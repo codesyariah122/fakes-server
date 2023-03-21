@@ -1,0 +1,54 @@
+{
+    "products": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Classic Converse Black",
+                "permalink": "classic-converse-black",
+                "photo": "/images/products/70s-black.jpeg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 3999999
+            },
+            {
+                "id": 2,
+                "name": "Classic Converse White",
+                "permalink": "classic-converse-white",
+                "photo": "/images/products/70s-white.jpeg",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "price": 2999999
+            },
+            {
+                "id": 3,
+                "name": "update jadi product tiga",
+                "permalink": "update-jadi-product-tiga",
+                "photo": "",
+                "description": "lorem ipsum aja",
+                "price": "3999999"
+            },
+            {
+                "id": 4,
+                "name": "update jadi product empat",
+                "permalink": "update-jadi-product-empat",
+                "photo": "",
+                "description": "lorem ipsum aja",
+                "price": "3999999"
+            },
+            {
+                "id": 5,
+                "name": "testing product 5",
+                "permalink": "testing-product-5",
+                "photo": "",
+                "description": "lorem ipsum aja",
+                "price": 3999999
+            },
+            {
+                "id": 6,
+                "name": "testing product 6",
+                "permalink": "testing-product-6",
+                "photo": "",
+                "description": "lorem ipsum aja",
+                "price": 3999999
+            }
+        ]
+    }
+}

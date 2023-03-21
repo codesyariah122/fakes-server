@@ -1,0 +1,2790 @@
+{
+  "products": {
+    "data": [
+      {
+        "id": "prod_QG375v6QW5rMOg",
+        "created": 1620620052,
+        "active": true,
+        "permalink": "evoush-brightening-beauty-soap",
+        "name": "Brightening Beauty Soap",
+        "description": "<p>Kandungan Niacinamide, Aloe Barbadensis Extract, Pachyrhizus Erosus Root Extract pada brightening Body Soap bermanfaat membantu meredakan inflamasi pada kulit ( sebagian Skin Conditioning Agent) terutama untuk kulit berjerawat / kulit yang mudah berjerawat. </p><p>Sebagai moisturizing, yaitu membantu mengatasi kulit kering dan kemerahan terutama untuk kulit yang sensitif terhadap produk kosmetika yang berlebihan, membantu mencerahkan kulit, meratakan warna kulit, memudarkan noda dan berkas jearawat, Membantu menjaga kulit agar tetap kencang, memudarkan kerutan dan keriput, serta meningkatkan elastisitas kulit.</p><p><strong>Cara Pakai : </strong></p><p>Basahi wajah / tubuh, basahi Beauty Soap dan gosok perhalan dengan telapak tangan hingga mengeluarkan busa, aplikasikan pada seluruh kulit wajah / tubuh, diamkan beberapa saat lalu bilas.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+          "title": "evoush beauty soap",
+          "description": "Siapapun tidak akan bisa menolak kebaikan dari Evoush Brightening Beauty Soap"
+        },
+        "thank_you_url": "https://evoush-beauty-soap.netlify.app/",
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": true,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": true,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-brightening-beauty-soap?checkout=true",
+          "display": "https://checkout.chec.io/evoush-brightening-beauty-soap"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/7g68Cj893HZeAHEW|4.jpg",
+          "asset_id": "ast_bO6J5apmG2oEjp"
+        },
+        "quantity": 1000000,
+        "last_updated": 1632808715,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_bO6J5apmG2oEjp",
+            "url": "https://cdn.chec.io/merchants/27164/assets/7g68Cj893HZeAHEW|4.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621341936,
+            "updated_at": 1621341942,
+            "data": {
+              "name": "4.jpg",
+              "ext": "jpg",
+              "size": 175486
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_NqKE50OdkgodgB",
+            "url": "https://cdn.chec.io/merchants/27164/assets/10t908AGse4Hg6aU|parallax_beauty.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1080,
+              "height": 1080
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159054,
+            "updated_at": 1631159057,
+            "data": {
+              "name": "parallax_beauty.jpg",
+              "ext": "jpg",
+              "size": 153128
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_QG375vjm3Q5rMO",
+            "url": "https://cdn.chec.io/merchants/27164/assets/fPKbTpluv0vcfNWL|P1011696.JPG",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 2560,
+              "height": 1440
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631170461,
+            "updated_at": 1631170466,
+            "data": {
+              "name": "P1011696.JPG",
+              "ext": "JPG",
+              "size": 1761755
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_bO6J5apmG2oEjp",
+          "url": "https://cdn.chec.io/merchants/27164/assets/7g68Cj893HZeAHEW|4.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621341936,
+          "updated_at": 1621341942,
+          "data": {
+            "name": "4.jpg",
+            "ext": "jpg",
+            "size": 175486
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_4OANwRp3K5vYL8",
+        "created": 1620784930,
+        "active": true,
+        "permalink": "evoush-kileon",
+        "name": "Kileon",
+        "description": "<p>KILEON merupakan minuman serbuk dengan rasa buah mangga dan nanas yang segar, mengandung collagen tinggi dan L Glutathione yang baik untuk kesehatan dan kecantikan kulit anda.</p><p>Kandungan Collagen pada KILEON bermanfaat untuk membantu memelihara kesehatan kulit, meningkatkan masa otot, memperlambat penuaan dini mengurangi keriput serta meningkatkan elastisitas kulit, mencegah kerusakan tulang rawan sendi, menguatkan tulang dan gigi, serta mengatasi kerontokan rambut.</p><p>Kandungan L Glutathione pada KILEON bermanfaat untuk mencerahkan kulit tubuh, menyamarkan bekas jerawat, mengatasi kulit kusam, memudarkan flek, mengencangkan kulit, menghaluskan kulit, melindungi kulit dari efek buruk sinar uv, menangkal radikal bebas, meningkatkan efektifitas insulin serta mencegah kerusakan sel hati.</p><p><strong>Cara Pakai : </strong></p><ul><li><p>Seduh 1 sachet KILEON kedalam segelas air (150ml) dengan suhu ruangan</p></li><li><p>Aduk sampai merata dan langsung di minum</p></li></ul>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Kileon",
+          "description": "Minuman serbuk yang mengandung FISH COLLAGEN yang membantu mengencangkan kulit wajah, menyuburkan rambut"
+        },
+        "thank_you_url": "https://kileon.netlify.app/",
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": true,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": true,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-kileon?checkout=true",
+          "display": "https://checkout.chec.io/evoush-kileon"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/haO56pzHIVnXHZvv|1.jpg",
+          "asset_id": "ast_Op1YoVp2XylXLv"
+        },
+        "quantity": 1000000,
+        "last_updated": 1632808744,
+        "categories": [
+          {
+            "id": "cat_8XO3wpM9EoYAzQ",
+            "slug": "nutrisi",
+            "name": "Nutrisi"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_Op1YoVp2XylXLv",
+            "url": "https://cdn.chec.io/merchants/27164/assets/haO56pzHIVnXHZvv|1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342078,
+            "updated_at": 1621342084,
+            "data": {
+              "name": "1.jpg",
+              "ext": "jpg",
+              "size": 187953
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_aZWNoyYZWYo80J",
+            "url": "https://cdn.chec.io/merchants/27164/assets/cZLaxzoGyKl1RNIw|kileon1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 2004,
+              "height": 2004
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621078886,
+            "updated_at": 1621078904,
+            "data": {
+              "name": "kileon1.jpg",
+              "ext": "jpg",
+              "size": 1267886
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_G6kVw734jjw2eD",
+            "url": "https://cdn.chec.io/merchants/27164/assets/d7x0et60FHY0WbqE|model33.png",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 417
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621079063,
+            "updated_at": 1621079074,
+            "data": {
+              "name": "model33.png",
+              "ext": "png",
+              "size": 786440
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_DWy4oG4G6p56Jx",
+            "url": "https://cdn.chec.io/merchants/27164/assets/S3OL2CfwLJBNqU62|nutrisi_model4.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1024,
+              "height": 682
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621218411,
+            "updated_at": 1621218423,
+            "data": {
+              "name": "nutrisi_model4.jpg",
+              "ext": "jpg",
+              "size": 535210
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_Op1YoVp2Z4lXLv",
+            "url": "https://cdn.chec.io/merchants/27164/assets/v3LOQs8GDC05Zgr0|MENTAHAN MASTER TERBARU.png",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 2000,
+              "height": 2000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621082219,
+            "updated_at": 1621082239,
+            "data": {
+              "name": "MENTAHAN MASTER TERBARU.png",
+              "ext": "png",
+              "size": 2829047
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_Op1YoVp2XylXLv",
+          "url": "https://cdn.chec.io/merchants/27164/assets/haO56pzHIVnXHZvv|1.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342078,
+          "updated_at": 1621342084,
+          "data": {
+            "name": "1.jpg",
+            "ext": "jpg",
+            "size": 187953
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_ypbroEp17w8n4e",
+        "created": 1621086770,
+        "active": true,
+        "permalink": "evoush-eikana",
+        "name": "Eikana",
+        "description": "<p>Eikana merupakan minuman serbuk dengan rasa buah yang segar, kandungan sayur dan buahnya kaya akan serat, vitamin dan mineral sebagai sumber antioksidan yang tinggi, baik untuk kesehatan anda.</p><p>Kandungan Corn Fiber, Psyllium Husk, dan Mangosteen, pada EIKANA bermanfaat membantu melancarkan buang air besar / mengatasi semebelit, membersihkan usus dari lemak jahat, menjaga kesehatan saluran pencernaan, membantu menurunkan berat badan, mengenyangkan ( tidak mudah lapar ), membuang racun dalam tubuh dan menurunkan kadar kolesterol sehingga mengurangi resiko penyakit jantung, mengandung anti oksidan tinggi menjaga daya tahan tubuh, mencegah tumor dan kanker.</p><p>Kandungan L Arginin, L Gluthatione, dan Fish Oil pada EIKANA bermanfaat untuk membantu meperlancar peredaran darah dan mengurangi tekanan darah tinggi, menangkal radikal bebas, menjaga kesehatan kulit, mencegah kerusakan sel hati, meningkatkan fungsi kognitif, serta membantu mengontrol berat badan.</p><p> </p><p><strong>Aturan Minum : </strong></p><ul><li><p>Seduh 1 sachet Eikana dengan satu gelas air ( 150ml ) dengan suhu, ruangan, aduk merata dan langsung diminum</p></li><li><p>untuk berat di bawah 75 kg cukup minum 1 sachet jam 11 siang sesudah sarapan pagi atau sebelum makan siang</p></li><li><p>untuk berat badan di atas 75 kg minum 2 sachet yaitu yang pertama jam 11 siang dan sachet yang kedua jam 7-8 malam.</p></li></ul>",
+        "price": {
+          "raw": 2,
+          "formatted": "2.00",
+          "formatted_with_symbol": "Rp2.00",
+          "formatted_with_code": "2.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Eikana",
+          "description": "Minuman Serbuk Extract Buah Dan Sayur mengandung bahan-bahan serat alami yang aman dan bermanfaat bagi tubuh anda."
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-eikana?checkout=true",
+          "display": "https://checkout.chec.io/evoush-eikana"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/ypXRYx2aLxCOxoWP|2.jpg",
+          "asset_id": "ast_4WJvlKpxYawbYV"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631158918,
+        "categories": [
+          {
+            "id": "cat_8XO3wpM9EoYAzQ",
+            "slug": "nutrisi",
+            "name": "Nutrisi"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_4WJvlKpxYawbYV",
+            "url": "https://cdn.chec.io/merchants/27164/assets/ypXRYx2aLxCOxoWP|2.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342135,
+            "updated_at": 1621342141,
+            "data": {
+              "name": "2.jpg",
+              "ext": "jpg",
+              "size": 267090
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_mOVKl4DzvYlprR",
+            "url": "https://cdn.chec.io/merchants/27164/assets/5S9JMhdNsNek3TSz|eikana1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 2004,
+              "height": 2004
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621086641,
+            "updated_at": 1621086671,
+            "data": {
+              "name": "eikana1.jpg",
+              "ext": "jpg",
+              "size": 2187811
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_ZM8X5nPvk8wpv4",
+            "url": "https://cdn.chec.io/merchants/27164/assets/OyfaorqIpUlWoRdn|model1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 600,
+              "height": 399
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621086682,
+            "updated_at": 1621086691,
+            "data": {
+              "name": "model1.jpg",
+              "ext": "jpg",
+              "size": 274369
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_gvRjwOr9MRl4mN",
+            "url": "https://cdn.chec.io/merchants/27164/assets/fwem48aOTyyrgN3w|model5.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 417
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621086695,
+            "updated_at": 1621086702,
+            "data": {
+              "name": "model5.jpg",
+              "ext": "jpg",
+              "size": 315963
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_4WJvlKpxYawbYV",
+          "url": "https://cdn.chec.io/merchants/27164/assets/ypXRYx2aLxCOxoWP|2.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342135,
+          "updated_at": 1621342141,
+          "data": {
+            "name": "2.jpg",
+            "ext": "jpg",
+            "size": 267090
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_L1vOoZ2mpoRa8Z",
+        "created": 1621209124,
+        "active": true,
+        "permalink": "day-cream",
+        "name": "Daycream",
+        "description": "<p>Sentuhan kelembutan Evoush Daycream akan membuat hari anda semakin terjaga, karena bukan tanpa sebab kulit anda semakin terjaga bersama Evoush Daycream yang di produksi dengan bahan dengan pilihan kualitas terbaik.</p><p>Kandungan Titanium Dioxide, Alpha Arbutin, Grape Extract, Niacinamide, Aloe Berbadensis Extract, dan Sodium Hyaluronate pada White Perfect Day Cream bermanfaat membantu melindungi kulit dari pengaruh buruk sinar matahari ( Sebagai uv filter ), mencerahkan kulit, melembabkan / menghidrasi kulit.</p><p> </p><p><strong>Cara Pakai : </strong></p><p>Usapkan tipis dan merata pada seluruh wajah setelah mengguanakn Face Wash dan Facial Toner, gunakan rutin pada pagi hari untuk hasil maksimal.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Daycream",
+          "description": "Lindungi kulit wajah anda dengan sentuhan lembut Evoush Day Cream"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": true,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": true,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/day-cream?checkout=true",
+          "display": "https://checkout.chec.io/day-cream"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/6QZ2Uk8K7HGAPegF|6.jpg",
+          "asset_id": "ast_DWy4oG4GYz56Jx"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159164,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_DWy4oG4GYz56Jx",
+            "url": "https://cdn.chec.io/merchants/27164/assets/6QZ2Uk8K7HGAPegF|6.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342181,
+            "updated_at": 1621342190,
+            "data": {
+              "name": "6.jpg",
+              "ext": "jpg",
+              "size": 136429
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_ZM8X5nPvr6wpv4",
+            "url": "https://cdn.chec.io/merchants/27164/assets/1AKFGjAP3HZNHQZK|Day Cream 1.png",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 2000,
+              "height": 2000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621209067,
+            "updated_at": 1621209086,
+            "data": {
+              "name": "Day Cream 1.png",
+              "ext": "png",
+              "size": 1217264
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_A12JwrBPZXwPjn",
+            "url": "https://cdn.chec.io/merchants/27164/assets/cT5RrTHI68JmyqOQ|Day Cream1 (2).jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159153,
+            "updated_at": 1631159159,
+            "data": {
+              "name": "Day Cream1 (2).jpg",
+              "ext": "jpg",
+              "size": 649243
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_bO6J5a8ERyoEjp",
+            "url": "https://cdn.chec.io/merchants/27164/assets/R764tDtFbVwbZ6A3|Day Cream1 (1).jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3510,
+              "height": 2484
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159153,
+            "updated_at": 1631159160,
+            "data": {
+              "name": "Day Cream1 (1).jpg",
+              "ext": "jpg",
+              "size": 1106717
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_Op1YoVE8MdwXLv",
+            "url": "https://cdn.chec.io/merchants/27164/assets/BnOLvdCmASEwEOuW|Day Cream.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159154,
+            "updated_at": 1631159160,
+            "data": {
+              "name": "Day Cream.jpg",
+              "ext": "jpg",
+              "size": 413904
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_DWy4oG4GYz56Jx",
+          "url": "https://cdn.chec.io/merchants/27164/assets/6QZ2Uk8K7HGAPegF|6.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342181,
+          "updated_at": 1621342190,
+          "data": {
+            "name": "6.jpg",
+            "ext": "jpg",
+            "size": 136429
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_4WJvlKGzWlbYV1",
+        "created": 1621342310,
+        "active": true,
+        "permalink": "gilcam-propolis",
+        "name": "Gilcam Propolis",
+        "description": "<p>Seluruh dunia sudah tau betapa banyak manfaat dari kandungan propolis bagi kesehatan tubuh. Selain menjaga dan menyeimbangkan imun tubuh anda, Gilcam Propolis kami di produksi dengan kualitas yang terjaga dan tentunya kaya manfaat bagi kesehatan anda.</p><p><strong>Komposisi : </strong></p><p>Madu, Propolis, Ekstract Tebu dan Mint</p><p><strong>Ingredients : </strong></p><p>Honey, Propolis, Cane Extract Mint</p><p> </p><p><strong>Aturan Pakai :</strong></p><p>Teteskan 5 Gilcam Propolis ke dalam air lalu minum, 2 kali sehari</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Gilcam Propolis",
+          "description": "Propolis Brazilian Nano Tech yang kaya manfaat untuk menjaga metabolisme tubuh anda"
+        },
+        "thank_you_url": "https://propolis.netlify.app/",
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/gilcam-propolis?checkout=true",
+          "display": "https://checkout.chec.io/gilcam-propolis"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/qdY4yKCafal8n99r|3.jpg",
+          "asset_id": "ast_ypbroE6XY358n4"
+        },
+        "quantity": 1000000,
+        "last_updated": 1632808786,
+        "categories": [
+          {
+            "id": "cat_8XO3wpM9EoYAzQ",
+            "slug": "nutrisi",
+            "name": "Nutrisi"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_ypbroE6XY358n4",
+            "url": "https://cdn.chec.io/merchants/27164/assets/qdY4yKCafal8n99r|3.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342279,
+            "updated_at": 1621342284,
+            "data": {
+              "name": "3.jpg",
+              "ext": "jpg",
+              "size": 140550
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_ypbroExRqPw8n4",
+            "url": "https://cdn.chec.io/merchants/27164/assets/sTn2t0gK9mwYeEnA|gilcam copy.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1890,
+              "height": 1890
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631158983,
+            "updated_at": 1631158990,
+            "data": {
+              "name": "gilcam copy.jpg",
+              "ext": "jpg",
+              "size": 1080759
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_ypbroE6XY358n4",
+          "url": "https://cdn.chec.io/merchants/27164/assets/qdY4yKCafal8n99r|3.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342279,
+          "updated_at": 1621342284,
+          "data": {
+            "name": "3.jpg",
+            "ext": "jpg",
+            "size": 140550
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_QG375vegXorMOg",
+        "created": 1621342460,
+        "active": true,
+        "permalink": "evoush-perfect-lipmatte",
+        "name": "Perfect Lipmatte",
+        "description": "<p><strong>Evoush Perfect Lipmatte</strong></p><ul><li><p>Natural Born: NA 18201301645</p></li><li><p>Baby Rich: NA 18201301646</p></li><li><p>Glazier: NA 18201301647</p></li><li><p>Bourjois: NA 18201301648</p></li><li><p>Zelda : NA 1820 1301649</p></li><li><p>Diva : NA 18201301661</p></li><li><p>Tiara : NA 18201301653</p></li><li><p>Red Lipped Batfish : NA 18201301650</p></li></ul><p>      Netto : 4gr</p><p>     1 Paket: 4pcs</p><p> </p><p>Evoush Perfect Lipmatte dibuat dari bahan pilihan dan foodgrade, sehingga aman digunakan untuk jangka panjang, yaitu : <strong>Cyclopentaxiloxane, Kaolin, Talc, Titanium Dioxide dan Beeswax</strong>.</p><p> </p><p><strong>Keunggulan Lipmatte Evoush :</strong></p><ul><li><p>Lipmatte Evoush 3 in 1, lebih hemat, 1 produk dengan 3 manfaat: pewarna bibir, eye shadow dan blush on</p></li><li><p>Food grade, aman jika tertelan</p></li><li><p>No Paraben / No Timbal / No Merkuri, tidak  menyebabkan bibir hitam/ alergi / gatal / bengkak / kanker mulut.</p></li><li><p>Longlasting (ga perlu sering touch up setelah makan/minum) transferproof (tidak menempel pada masker, gelas dll)</p></li><li><p>Pigmented, sekali oles warna sudah terlihat</p></li><li><p>Tekstur ringan, tidak menggumpal jika terkena air.</p></li><li><p>No Cracking, diperkaya  vitamin B, melembabkan bibir tidak kering.</p></li><li><p>Tersedia 8 warna, bisa menyesuaikan dengan tema make up (natural/bold)</p></li></ul><p><strong>cara pakai :</strong></p><ul><li><p>Pewarna Bibir : Oleskan tipis dan merata pada bibir, biarkan beberapa saat untuk benar-benar menempel sempurna</p></li><li><p>Blush On : Oleskan sedikit saja, pada tulang pipi disatu sisi, ratakan, jika selesai baru pindah ke sisi lainnya. agar lebih mudah di blend.</p></li><li><p>Eye Shadow : Oleskan sedikit saja pada kelopak mata, ratakan lalu ulangi pada kelopak mata sisi lainnya</p></li></ul><p> </p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Perfect Lipmatte",
+          "description": "Perfect lipmatte menambah kesempurnaan penampilan anda semakin kece"
+        },
+        "thank_you_url": "https://evoush-perfect-lipmatte.netlify.app/",
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-perfect-lipmatte?checkout=true",
+          "display": "https://checkout.chec.io/evoush-perfect-lipmatte"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/agGqGBWUlFXtoQ5t|3By15Th9IM3HmofFAPC0cVv6dtFNgDBK43oiuSsq.jpg",
+          "asset_id": "ast_RyWOwmqvKAwnEa"
+        },
+        "quantity": 1000000,
+        "last_updated": 1632808810,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_RyWOwmqvKAwnEa",
+            "url": "https://cdn.chec.io/merchants/27164/assets/agGqGBWUlFXtoQ5t|3By15Th9IM3HmofFAPC0cVv6dtFNgDBK43oiuSsq.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631157679,
+            "updated_at": 1631157682,
+            "data": {
+              "name": "3By15Th9IM3HmofFAPC0cVv6dtFNgDBK43oiuSsq.jpg",
+              "ext": "jpg",
+              "size": 165450
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_AYrQlWdvBJwnbR",
+            "url": "https://cdn.chec.io/merchants/27164/assets/4noq1flu890w1zXg|123392528_121842466177335_5139221623457589376_n.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 640,
+              "height": 640
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631157578,
+            "updated_at": 1631157582,
+            "data": {
+              "name": "123392528_121842466177335_5139221623457589376_n.jpg",
+              "ext": "jpg",
+              "size": 44285
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_G6kVw7KRkdw2eD",
+            "url": "https://cdn.chec.io/merchants/27164/assets/WEtotxADgzH3kVkx|150468599_334178634616206_9199710288066484328_n.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 640,
+              "height": 640
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631157579,
+            "updated_at": 1631157583,
+            "data": {
+              "name": "150468599_334178634616206_9199710288066484328_n.jpg",
+              "ext": "jpg",
+              "size": 35980
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_O3bR5Xze0Mwnzd",
+            "url": "https://cdn.chec.io/merchants/27164/assets/I8YsihY7QXM9vwci|P1012112.JPG",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 4608,
+              "height": 2592
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631157579,
+            "updated_at": 1631157594,
+            "data": {
+              "name": "P1012112.JPG",
+              "ext": "JPG",
+              "size": 3199733
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_p6dP5gprYWln7k",
+            "url": "https://cdn.chec.io/merchants/27164/assets/FFuuHCaR13ekTWue|P1012111.JPG",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 4608,
+              "height": 2592
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631157578,
+            "updated_at": 1631157602,
+            "data": {
+              "name": "P1012111.JPG",
+              "ext": "JPG",
+              "size": 4114799
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_RyWOwmqvKAwnEa",
+          "url": "https://cdn.chec.io/merchants/27164/assets/agGqGBWUlFXtoQ5t|3By15Th9IM3HmofFAPC0cVv6dtFNgDBK43oiuSsq.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1631157679,
+          "updated_at": 1631157682,
+          "data": {
+            "name": "3By15Th9IM3HmofFAPC0cVv6dtFNgDBK43oiuSsq.jpg",
+            "ext": "jpg",
+            "size": 165450
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_0egY5eyDV53QnA",
+        "created": 1621342720,
+        "active": true,
+        "permalink": "evoush-night-cream",
+        "name": "Evoush Night Cream",
+        "description": "<p>Setelah seharian berbalut riasan wajah, tentunya kulit anda membutuhkan perawatan lebih di malam hari dikala kulit anda menjalankan proses regenerasi Evoush Nightcream akan menjadi faktor tambahan untuk semakin memperbaiki regenerasi kulit wajah anda di saat istirahat malam.</p><p>Kandungan Baron Nitride, Kojic Acid, Niacinamide, Alpha Arbutin, Arisaema Amurense Extract, Citrus Lemon Fruit Extract, Collagen, dan Sodium Hyaluronate pada White Perfect Night Cream bermanfaat membantu mencerahkan kulit, mengatasi hiperpigmentasi, memudarkan flek dan noda berkas jerawat, memudarkan garis harus dan keriput, serta mengencangkan kulit.</p><p><strong>Cara Pakai : </strong></p><p>Usapkan tipis dan merata pada seluruh wajah, setelah menggunakan Face Wash, Facial Toner, dan Gold Jelly Serum. Gunakan secara rutin pada malam hari menjelang tidur.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Night Cream",
+          "description": "Beauty Skin Think Beauty Evoush Night Cream"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-night-cream?checkout=true",
+          "display": "https://checkout.chec.io/evoush-night-cream"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/Qt5jKMZA0bcAOhbk|7.jpg",
+          "asset_id": "ast_bO6J5apmGXoEjp"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159286,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_bO6J5apmGXoEjp",
+            "url": "https://cdn.chec.io/merchants/27164/assets/Qt5jKMZA0bcAOhbk|7.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342513,
+            "updated_at": 1621342518,
+            "data": {
+              "name": "7.jpg",
+              "ext": "jpg",
+              "size": 132734
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_aZWNoyv0YV580J",
+            "url": "https://cdn.chec.io/merchants/27164/assets/8zbIBDxKTT5NCqNs|Night Cream.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159265,
+            "updated_at": 1631159268,
+            "data": {
+              "name": "Night Cream.jpg",
+              "ext": "jpg",
+              "size": 417738
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_BkyN5YAxV250b6",
+            "url": "https://cdn.chec.io/merchants/27164/assets/pcQgB5opUoPROU7C|Night Cream2.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3510,
+              "height": 2484
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159265,
+            "updated_at": 1631159270,
+            "data": {
+              "name": "Night Cream2.jpg",
+              "ext": "jpg",
+              "size": 1083326
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_31q0o3ejLklDdj",
+            "url": "https://cdn.chec.io/merchants/27164/assets/rnyXxfnPbdW7uvdc|Night Cream1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159265,
+            "updated_at": 1631159272,
+            "data": {
+              "name": "Night Cream1.jpg",
+              "ext": "jpg",
+              "size": 634969
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_bO6J5apmGXoEjp",
+          "url": "https://cdn.chec.io/merchants/27164/assets/Qt5jKMZA0bcAOhbk|7.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342513,
+          "updated_at": 1621342518,
+          "data": {
+            "name": "7.jpg",
+            "ext": "jpg",
+            "size": 132734
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_RqEv5xBgAwZz4j",
+        "created": 1621342887,
+        "active": true,
+        "permalink": "evoush-body-serum",
+        "name": "Evoush Body Serum",
+        "description": "<p>Memliki kulit putih sehat dan menawan adalah impian setiap wanita, Evoush Body Serum lah jawaban yang senantiasa menjawab setiap pertanyaan sebagian impian diatas. Evoush Body Serum akan merawat kulit anda dengan kebaikan yang terkandung didalamnya.</p><p>Kandungan Glycerin, Beeswax, Shea butter, dan Titanium Dioxide pada Precious White Body Serum bermanfaat untuk membantu melembabkan kulit hingga 10 x lipat dari lotion biasa, mengatasi kulit kering dan pecah-pecah, menghaluskan kulit, berbagai sunscreen yang melindungi kulit dari pengaruh buruk sinar matahari (uv filter), dan mencerahkan kulit tubuh.</p><p>Precious White Body Serum cepat meresap, tidak lengket, wangi aroma susu, kulit cerah sejak pertama kali pakai.</p><p> </p><p><strong>Cara Pakai : </strong></p><p>Tuangkan secukupnya pada telapak tangan usapkan merata pada tangan dan kaki. Untuk hasil maksimal, gunakan setelah Peeling Spray.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Body Serum",
+          "description": "For Precious Beauty Whitening Your Skin"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-body-serum?checkout=true",
+          "display": "https://checkout.chec.io/evoush-body-serum"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/rNKrFjM2ViLH7NkY|8.jpg",
+          "asset_id": "ast_A12JwreDdVlPjn"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159350,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_A12JwreDdVlPjn",
+            "url": "https://cdn.chec.io/merchants/27164/assets/rNKrFjM2ViLH7NkY|8.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342857,
+            "updated_at": 1621342864,
+            "data": {
+              "name": "8.jpg",
+              "ext": "jpg",
+              "size": 152791
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_p6dP5gpr0Kln7k",
+            "url": "https://cdn.chec.io/merchants/27164/assets/RefWArV3wS31YeKI|Body Serum1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159330,
+            "updated_at": 1631159334,
+            "data": {
+              "name": "Body Serum1.jpg",
+              "ext": "jpg",
+              "size": 669412
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_AYrQlWdvXRwnbR",
+            "url": "https://cdn.chec.io/merchants/27164/assets/uJ87h7wFosaO3iyG|Body Serum.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159330,
+            "updated_at": 1631159336,
+            "data": {
+              "name": "Body Serum.jpg",
+              "ext": "jpg",
+              "size": 443477
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_O3bR5XzeBGwnzd",
+            "url": "https://cdn.chec.io/merchants/27164/assets/BwXZIaO6tUkfiYYy|Body Serum2.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3510,
+              "height": 2484
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159330,
+            "updated_at": 1631159341,
+            "data": {
+              "name": "Body Serum2.jpg",
+              "ext": "jpg",
+              "size": 1082327
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_G6kVw7KR3mw2eD",
+            "url": "https://cdn.chec.io/merchants/27164/assets/NW5JsTxDsgdSKTEQ|BODY SERUM250 MM.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159330,
+            "updated_at": 1631159345,
+            "data": {
+              "name": "BODY SERUM250 MM.jpg",
+              "ext": "jpg",
+              "size": 3562626
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_A12JwreDdVlPjn",
+          "url": "https://cdn.chec.io/merchants/27164/assets/rNKrFjM2ViLH7NkY|8.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342857,
+          "updated_at": 1621342864,
+          "data": {
+            "name": "8.jpg",
+            "ext": "jpg",
+            "size": 152791
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_8XxzoB6Z6oPQAZ",
+        "created": 1621343032,
+        "active": true,
+        "permalink": "evoush-peeling-spray",
+        "name": "Evoush Peeling Spray",
+        "description": "<p>Produk spray terbaik yang akan menjaga kulit anda dari sel-sel mati dari kulit yang biasanya sangat mengganggu penampilan, Evoush Peeling Spray sangat mudah di gunakan, praktis dan tentunya kualitas bahan yang tidak akan bisa di ragukan lagi manfaat dan kandungannya</p><p> </p><p>Kandungan Clycerin, Niacinamide, Licorice Extract, Aloe Barbadensis Extract, dan Collagen pada Peeling Spray yang dilengkapi scrub halus bermanfaat membantu membersihkan kulit hingga ke pori-pori, mengangkat sel kulit mati, menghaluskan tekstur kulit, kulit menjadi lembab, cerah dan bercahaya.</p><p><strong>Cara Pakai : </strong></p><p>Semprotkan pada wajah atau badan yang akan di peeling, terutama bagian lipatan seperti lutut, sikut, ketiak, leher, dll. Gosok perlahan dengan gerakan memutar hingga kotoran / daki terangkat, lalu bilas, Gunakan Secara teratur untuk hasil optimal. </p><p>Khusus Wajah : Gunakan 3 Hari sekali / Seminggi 1-2 kali.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Peeling Spray",
+          "description": "Menjaga kulit dan membersihkan sel-sel mati pada kulit anda dengan cara praktis"
+        },
+        "thank_you_url": "https://peeling-spray.netlify.app/",
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-peeling-spray?checkout=true",
+          "display": "https://checkout.chec.io/evoush-peeling-spray"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/53f2SjmlMXoU6i51|9.jpg",
+          "asset_id": "ast_4WJvlKpxYZwbYV"
+        },
+        "quantity": 1000000,
+        "last_updated": 1632894802,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_4WJvlKpxYZwbYV",
+            "url": "https://cdn.chec.io/merchants/27164/assets/53f2SjmlMXoU6i51|9.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621342939,
+            "updated_at": 1621342944,
+            "data": {
+              "name": "9.jpg",
+              "ext": "jpg",
+              "size": 147176
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_Kvg9l6vRArl1bB",
+            "url": "https://cdn.chec.io/merchants/27164/assets/cp4R2ppxQhIVJ90z|Peeling Spray2A.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3510,
+              "height": 2484
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159403,
+            "updated_at": 1631159409,
+            "data": {
+              "name": "Peeling Spray2A.jpg",
+              "ext": "jpg",
+              "size": 1136435
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_NqKE50OdbLodgB",
+            "url": "https://cdn.chec.io/merchants/27164/assets/tIJ38DjnCv1mpUu1|Peeling Spray2B.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159403,
+            "updated_at": 1631159410,
+            "data": {
+              "name": "Peeling Spray2B.jpg",
+              "ext": "jpg",
+              "size": 685015
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_8XO3wpdBdWwYAz",
+            "url": "https://cdn.chec.io/merchants/27164/assets/pDpQcWLaAOseza7z|Peeling Spray1B.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159404,
+            "updated_at": 1631159413,
+            "data": {
+              "name": "Peeling Spray1B.jpg",
+              "ext": "jpg",
+              "size": 533255
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_kpnNwAq3q9wmXB",
+            "url": "https://cdn.chec.io/merchants/27164/assets/I0HnAV82vgfxOhiy|peeling spray1A.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159404,
+            "updated_at": 1631159414,
+            "data": {
+              "name": "peeling spray1A.jpg",
+              "ext": "jpg",
+              "size": 1926785
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_4WJvlKpxYZwbYV",
+          "url": "https://cdn.chec.io/merchants/27164/assets/53f2SjmlMXoU6i51|9.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621342939,
+          "updated_at": 1621342944,
+          "data": {
+            "name": "9.jpg",
+            "ext": "jpg",
+            "size": 147176
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_VKXmwDAZ7orgDA",
+        "created": 1621343136,
+        "active": true,
+        "permalink": "evoush-gold-jelly-night",
+        "name": "Evoush Perfect Gold Jelly Night",
+        "description": "<p>Kandungan Alpha Arbutin, Niacinamide, Citrus Lemon Extract, Aloe Barbandensis Extract, Sodium Hyaluronate, Red Algae dan Vit C pada Perfect Gold Jelly Night Serum bermanfaat membantu menyamarkan kerutan, mengecilkan pori, menjaga elastisitas kulit, mencerahkan, mengatasi kulit kusam, dan meredakan peradangan.</p><p><strong>Cara Pakai :</strong></p><p>Pump Gold Jelly serum di ujung jari, lalu aplikasikan ke seluruh wajah sambil di pijat ringan dengan gerakan memutar ke atas. Untuk hasil maksimal gunakan rutin setiap malam, sebelum menggunakan Night Cream.</p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Perfect Gold Jelly Night",
+          "description": "Perfect Gold Jelly Night by Evoush"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-gold-jelly-night?checkout=true",
+          "display": "https://checkout.chec.io/evoush-gold-jelly-night"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/Y9SVTPGQjN76l14l|10.jpg",
+          "asset_id": "ast_zkK6oL9B3R5Xn0"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159554,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_zkK6oL9B3R5Xn0",
+            "url": "https://cdn.chec.io/merchants/27164/assets/Y9SVTPGQjN76l14l|10.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621343087,
+            "updated_at": 1621343094,
+            "data": {
+              "name": "10.jpg",
+              "ext": "jpg",
+              "size": 171978
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_A12JwrBPBMwPjn",
+            "url": "https://cdn.chec.io/merchants/27164/assets/chR5HGbYBARd200W|P1010528.JPG",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 4608,
+              "height": 2592
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159480,
+            "updated_at": 1631159509,
+            "data": {
+              "name": "P1010528.JPG",
+              "ext": "JPG",
+              "size": 5646063
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_4WJvlKOEO9lbYV",
+            "url": "https://cdn.chec.io/merchants/27164/assets/JqesKhNFrUk9DZZs|Perfect Gold Jelly Night.png",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159526,
+            "updated_at": 1631159549,
+            "data": {
+              "name": "Perfect Gold Jelly Night.png",
+              "ext": "png",
+              "size": 9410615
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_zkK6oL9B3R5Xn0",
+          "url": "https://cdn.chec.io/merchants/27164/assets/Y9SVTPGQjN76l14l|10.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621343087,
+          "updated_at": 1621343094,
+          "data": {
+            "name": "10.jpg",
+            "ext": "jpg",
+            "size": 171978
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_LvJjoPBZnle0nO",
+        "created": 1621343215,
+        "active": true,
+        "permalink": "evoush-face-wash",
+        "name": "Evoush Face Wash",
+        "description": "<p>Kandungan Glycerin, Collagen, Alpha Arbutin, dan Niacinamide pada Deep Cleansing Face Wash bermanfaat membantu membersihkan kulit dari debu dan kotoran, menghilangkan minyak dan sisa make up, kulit menjadi bersih, cerah, segar serta lembab.</p><p> </p><p><strong>Cara Pakai : </strong></p><ul><li><p>Basahi wajah, tekan pump, tuangkan foam pada tangan, aplikasikan perlahan pada wajah, hindari area mata, diamkan beberapa saat, lalu bilas.</p></li></ul>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Face Wash",
+          "description": "Menjaga kesehatan kulit terutama kulit wajah adalah sebuah modal utama dalam menjaga penampilan anda, Evoush Facewash melakukannya dengan sentuhan lembut bagi kulit anda"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": false,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": false,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-face-wash?checkout=true",
+          "display": "https://checkout.chec.io/evoush-face-wash"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/louUiRt8IJueRvd0|11.jpg",
+          "asset_id": "ast_bWZ3l89nYGwkpE"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159760,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_bWZ3l89nYGwkpE",
+            "url": "https://cdn.chec.io/merchants/27164/assets/louUiRt8IJueRvd0|11.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621343182,
+            "updated_at": 1621343187,
+            "data": {
+              "name": "11.jpg",
+              "ext": "jpg",
+              "size": 135299
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_QG375vjmjY5rMO",
+            "url": "https://cdn.chec.io/merchants/27164/assets/qk8KRSxX1SEsq2Ee|Face wash1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159654,
+            "updated_at": 1631159660,
+            "data": {
+              "name": "Face wash1.jpg",
+              "ext": "jpg",
+              "size": 671271
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_bWZ3l8LML1lkpE",
+            "url": "https://cdn.chec.io/merchants/27164/assets/8kpiQYpLi9hSjkgn|Face Wash2.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3510,
+              "height": 2484
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159654,
+            "updated_at": 1631159660,
+            "data": {
+              "name": "Face Wash2.jpg",
+              "ext": "jpg",
+              "size": 1100568
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_8XxzoBqRqbwPQA",
+            "url": "https://cdn.chec.io/merchants/27164/assets/VU3mRuOP3SsTKTvp|Face Wash.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159654,
+            "updated_at": 1631159693,
+            "data": {
+              "name": "Face Wash.jpg",
+              "ext": "jpg",
+              "size": 420828
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_bWZ3l89nYGwkpE",
+          "url": "https://cdn.chec.io/merchants/27164/assets/louUiRt8IJueRvd0|11.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621343182,
+          "updated_at": 1621343187,
+          "data": {
+            "name": "11.jpg",
+            "ext": "jpg",
+            "size": 135299
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_eN1ql9nvdwz3ym",
+        "created": 1621343302,
+        "active": true,
+        "permalink": "evoush-facial-toner",
+        "name": "Evoush Facial Toner",
+        "description": "<p>Kandungan Licorice Extract, Glycolic Acid, Aloe Berbadensis Extract, Alpha Arbutin, Niacinamide dan Kojic Acid pada product Simple Shooting Facial Toner bermanfaat membantu membersihkan kulit hingga pori-pori, mengeksfoliasi kulit, meredakan peradangan, menyegarkan dan mencerahkan kulit.</p><p><strong>cara pakai : </strong></p><p>Semprotkan pada kapas secukupnya, tap secara ringan pada seluruh wajah. Gunakan setelah wajah dibersihkan menggunakan <strong>Face Wash.</strong></p>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": "SKU",
+        "sort_order": 0,
+        "seo": {
+          "title": "Evoush Facial Toner",
+          "description": "Cara praktis dan simple untuk merawat kulit dengan kualitas terbaik dari produk Evoush Facial Toner yang senantiasa memberikan manfaat bagi kulit terbaik anda"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evoush-facial-toner?checkout=true",
+          "display": "https://checkout.chec.io/evoush-facial-toner"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/7wX4MvvVXTltWwC7|13.jpg",
+          "asset_id": "ast_QG375vRXEp5rMO"
+        },
+        "quantity": 1000000,
+        "last_updated": 1631159836,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_QG375vRXEp5rMO",
+            "url": "https://cdn.chec.io/merchants/27164/assets/7wX4MvvVXTltWwC7|13.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 626,
+              "height": 416
+            },
+            "meta": [
+
+            ],
+            "created_at": 1621343274,
+            "updated_at": 1621343280,
+            "data": {
+              "name": "13.jpg",
+              "ext": "jpg",
+              "size": 151028
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_7ZAMo1LjLewNJ4",
+            "url": "https://cdn.chec.io/merchants/27164/assets/127EaYcAbA6QhsiC|Facial Toner2.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3508,
+              "height": 2482
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159813,
+            "updated_at": 1631159817,
+            "data": {
+              "name": "Facial Toner2.jpg",
+              "ext": "jpg",
+              "size": 542179
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_gnZO5krGrmo7MN",
+            "url": "https://cdn.chec.io/merchants/27164/assets/kygAXgnbLc9o7jRa|Facial Toner_cover.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 3000,
+              "height": 3000
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159813,
+            "updated_at": 1631159817,
+            "data": {
+              "name": "Facial Toner_cover.jpg",
+              "ext": "jpg",
+              "size": 441872
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_r2LM5QmrmB5ZV1",
+            "url": "https://cdn.chec.io/merchants/27164/assets/CPqlo1sI0MFeBK0Q|P1010683.JPG",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 4608,
+              "height": 2592
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159813,
+            "updated_at": 1631159833,
+            "data": {
+              "name": "P1010683.JPG",
+              "ext": "JPG",
+              "size": 6018970
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_QG375vRXEp5rMO",
+          "url": "https://cdn.chec.io/merchants/27164/assets/7wX4MvvVXTltWwC7|13.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 626,
+            "height": 416
+          },
+          "meta": [
+
+          ],
+          "created_at": 1621343274,
+          "updated_at": 1621343280,
+          "data": {
+            "name": "13.jpg",
+            "ext": "jpg",
+            "size": 151028
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_ypbroE6E4358n4",
+        "created": 1631159960,
+        "active": true,
+        "permalink": "evost-sop-5000-collagen",
+        "name": "Evost SOP 5000 Collagen",
+        "description": "<h1><strong>Apple Powder Drink With Collagen</strong></h1><p><strong>(Minuman Serbuk Apel dengan Kolagen)</strong></p><ul><li><p>Kolagen 5000 mg per sajian</p></li><li><p>Salmon Bubuk</p></li><li><p>Tinggi Protein</p></li><li><p>Tinggi Serat Pangan</p></li><li><p>Sumber Vitamin A</p></li><li><p>Sumber Vitamin E</p></li><li><p>Sumber Vitamin B2 (Riboflavin)</p></li><li><p>Sumber Vitamin B6 (Pridoksin)</p></li><li><p>Sumber Vitamin B9 (Asam Folat)</p></li><li><p>Tinggi Vitamin C</p></li><li><p>Sumber Kalsium</p></li><li><p>Sumber Magnesium</p></li><li><p>Sumber Selenium</p></li><li><p>Tinggi Kolin</p></li></ul><p><strong>Komposisi :</strong></p><p><strong>Peptide Kolagen Ikan (25%). </strong>Apel Bubuk (25%), Anggur bubuk, Serat larut dari jagung. Ekstrak buah-buahan, Inulin. <strong>Serat Gandum, </strong>L-Glutation, L-Aegnin, Premiks vitamin dan mineral, Antioksidan asam askorbat, Kalsium dari ekstrak ganggang laut, <strong>Salmon Bubuk. </strong>Pengatur keasaman ( Asam malat, Asam sitrat), Serat Jeruk, Ekstrak tebu, Ekstrak lidah buaya, Pemanis alami glikosida steviol, Biotin, Asam Folat.</p><p> </p><p><strong>Cara Penyajian :</strong></p><ul><li><p>Masukan 1 sachet ke dalam shaker</p></li><li><p>Tambahkan 150 ml air dingin</p></li><li><p>Aduk lalu shake hingga merata</p></li><li><p>Evost siap disajikan</p></li></ul>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+          "title": "evost sop 5000 collagen",
+          "description": "Apple Powder Drink With Collagen (Minuman Serbuk Apel dengan Kolagen) merupakan product nutrisi terbaru evoush yang penuh manfaat terutama dalam menjaga kesehatan dan kecantikan anda"
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": true
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": true
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/evost-sop-5000-collagen?checkout=true",
+          "display": "https://checkout.chec.io/evost-sop-5000-collagen"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/nNbIAwAo3z9OGdAg|vSfWmkcAxOagjOixynKeGC17ebkZiw8kRb7Go5lO.jpg",
+          "asset_id": "ast_N7GKwbBQndw3EX"
+        },
+        "quantity": 100000,
+        "last_updated": 1633506689,
+        "categories": [
+          {
+            "id": "cat_8XO3wpM9EoYAzQ",
+            "slug": "nutrisi",
+            "name": "Nutrisi"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_N7GKwbBQndw3EX",
+            "url": "https://cdn.chec.io/merchants/27164/assets/nNbIAwAo3z9OGdAg|vSfWmkcAxOagjOixynKeGC17ebkZiw8kRb7Go5lO.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1464,
+              "height": 976
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631726739,
+            "updated_at": 1631726742,
+            "data": {
+              "name": "vSfWmkcAxOagjOixynKeGC17ebkZiw8kRb7Go5lO.jpg",
+              "ext": "jpg",
+              "size": 143678
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_kd6Ll2GjGjwV2m",
+            "url": "https://cdn.chec.io/merchants/27164/assets/U8eKsw1qmLbBgbmf|4.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 640,
+              "height": 640
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159922,
+            "updated_at": 1631159925,
+            "data": {
+              "name": "4.jpg",
+              "ext": "jpg",
+              "size": 66313
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_gnZO5krGX6o7MN",
+            "url": "https://cdn.chec.io/merchants/27164/assets/q9kEeJwecrWSVJWG|WhatsApp Image 2021-09-07 at 17.33.58.jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1280,
+              "height": 1280
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631172887,
+            "updated_at": 1631172896,
+            "data": {
+              "name": "WhatsApp Image 2021-09-07 at 17.33.58.jpeg",
+              "ext": "jpeg",
+              "size": 423214
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_VKXmwDERyXorgD",
+            "url": "https://cdn.chec.io/merchants/27164/assets/INempaaIyBBsMRFC|WhatsApp Image 2021-09-07 at 17.33.58 (1).jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1280,
+              "height": 1279
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631172886,
+            "updated_at": 1631172890,
+            "data": {
+              "name": "WhatsApp Image 2021-09-07 at 17.33.58 (1).jpeg",
+              "ext": "jpeg",
+              "size": 348286
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_0YnEoqxDxOwe7P",
+            "url": "https://cdn.chec.io/merchants/27164/assets/pYIf7UkUsXg5RUgF|1.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1001,
+              "height": 980
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631159922,
+            "updated_at": 1631159925,
+            "data": {
+              "name": "1.jpg",
+              "ext": "jpg",
+              "size": 220579
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_LvJjoPVazple0n",
+            "url": "https://cdn.chec.io/merchants/27164/assets/dpjJT4bnaDGciQO3|WhatsApp Image 2021-09-02 at 16.52.34.jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1042,
+              "height": 1042
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631172886,
+            "updated_at": 1631172894,
+            "data": {
+              "name": "WhatsApp Image 2021-09-02 at 16.52.34.jpeg",
+              "ext": "jpeg",
+              "size": 144874
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_eN1ql9KRkpoz3y",
+            "url": "https://cdn.chec.io/merchants/27164/assets/lKLnZhbJOeyQs8Hp|WhatsApp Image 2021-09-07 at 17.33.59.jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1280,
+              "height": 1280
+            },
+            "meta": [
+
+            ],
+            "created_at": 1631172887,
+            "updated_at": 1631172894,
+            "data": {
+              "name": "WhatsApp Image 2021-09-07 at 17.33.59.jpeg",
+              "ext": "jpeg",
+              "size": 279396
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_N7GKwbBQndw3EX",
+          "url": "https://cdn.chec.io/merchants/27164/assets/nNbIAwAo3z9OGdAg|vSfWmkcAxOagjOixynKeGC17ebkZiw8kRb7Go5lO.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 1464,
+            "height": 976
+          },
+          "meta": [
+
+          ],
+          "created_at": 1631726739,
+          "updated_at": 1631726742,
+          "data": {
+            "name": "vSfWmkcAxOagjOixynKeGC17ebkZiw8kRb7Go5lO.jpg",
+            "ext": "jpg",
+            "size": 143678
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      },
+      {
+        "id": "prod_p6dP5g0EB9ln7k",
+        "created": 1633505412,
+        "active": true,
+        "permalink": "klev",
+        "name": "klev whitening serum",
+        "description": "<p>Diformulasikan khusus dengan bahan kandungan premium yang memiliki segudang manfaat bagi kulit wajah. Beberapa manfaat nya yakni : </p><ul><li><p>mencerahkan kulit</p></li><li><p>membantu mengatasi masalah jerawat</p><p>menjaga kelembaban kulit.</p></li></ul><p></p><h3>Kandungan Bahan : </h3><ul><li><p>Niacinamide</p></li><li><p>Desamido Collagen</p></li><li><p>Saffron</p></li></ul>",
+        "price": {
+          "raw": 1,
+          "formatted": "1.00",
+          "formatted_with_symbol": "Rp1.00",
+          "formatted_with_code": "1.00 IDR"
+        },
+        "sku": null,
+        "sort_order": 0,
+        "seo": {
+          "title": "Klev Whitening Serum",
+          "description": "Diformulasikan khusus dengan bahan kandungan premium yang memiliki segudang manfaat bagi kulit wajah. Beberapa manfaat nya yakni :\n\nmencerahkan kulit\n\nmembantu mengatasi masalah jerawat\n\nmenjaga kelembaban kulit."
+        },
+        "thank_you_url": null,
+        "meta": null,
+        "conditionals": {
+          "is_active": true,
+          "is_tax_exempt": false,
+          "is_pay_what_you_want": true,
+          "is_sold_out": false,
+          "has_digital_delivery": false,
+          "has_physical_delivery": false,
+          "has_images": true,
+          "collects_fullname": true,
+          "collects_shipping_address": true,
+          "collects_billing_address": true,
+          "has_video": false,
+          "has_rich_embed": false,
+          "is_free": false,
+          "collects_extrafields": false,
+          "is_quantity_limited": false
+        },
+        "is": {
+          "active": true,
+          "tax_exempt": false,
+          "pay_what_you_want": true,
+          "sold_out": false,
+          "free": false,
+          "quantity_limited": false
+        },
+        "has": {
+          "digital_delivery": false,
+          "physical_delivery": false,
+          "images": true
+        },
+        "collects": {
+          "fullname": true,
+          "shipping_address": true,
+          "billing_address": true,
+          "extrafields": false
+        },
+        "checkout_url": {
+          "checkout": "https://checkout.chec.io/klev?checkout=true",
+          "display": "https://checkout.chec.io/klev"
+        },
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/27164/assets/VZGK3IkE9uQcFPLf|klev.jpg",
+          "asset_id": "ast_yA6nldx1y4lEWb"
+        },
+        "quantity": 0,
+        "last_updated": 1633706973,
+        "categories": [
+          {
+            "id": "cat_Kvg9l61J251bB7",
+            "slug": "cosmetics",
+            "name": "Cosmetics"
+          }
+        ],
+        "assets": [
+          {
+            "id": "ast_yA6nldx1y4lEWb",
+            "url": "https://cdn.chec.io/merchants/27164/assets/VZGK3IkE9uQcFPLf|klev.jpg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 1464,
+              "height": 976
+            },
+            "meta": [
+
+            ],
+            "created_at": 1633706786,
+            "updated_at": 1633706790,
+            "data": {
+              "name": "klev.jpg",
+              "ext": "jpg",
+              "size": 419629
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_4OANwRE08zlvYL",
+            "url": "https://cdn.chec.io/merchants/27164/assets/upvjdG58HikNnY0d|klev.jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 854,
+              "height": 1280
+            },
+            "meta": [
+
+            ],
+            "created_at": 1633505380,
+            "updated_at": 1633505384,
+            "data": {
+              "name": "klev.jpeg",
+              "ext": "jpeg",
+              "size": 90156
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_Op1YoVErj1wXLv",
+            "url": "https://cdn.chec.io/merchants/27164/assets/nzbk7bAw3vT61bbr|klev1.jpeg",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 854,
+              "height": 1280
+            },
+            "meta": [
+
+            ],
+            "created_at": 1633703147,
+            "updated_at": 1633703148,
+            "data": {
+              "name": "klev1.jpeg",
+              "ext": "jpeg",
+              "size": 77371
+            },
+            "merchant_id": 27164
+          },
+          {
+            "id": "ast_4WJvlKO28BlbYV",
+            "url": "https://cdn.chec.io/merchants/27164/assets/X7M6f37la4zORxDi|klevv.png",
+            "description": null,
+            "is_image": true,
+            "image_dimensions": {
+              "width": 575,
+              "height": 552
+            },
+            "meta": [
+
+            ],
+            "created_at": 1633703147,
+            "updated_at": 1633703156,
+            "data": {
+              "name": "klevv.png",
+              "ext": "png",
+              "size": 131804
+            },
+            "merchant_id": 27164
+          }
+        ],
+        "image": {
+          "id": "ast_yA6nldx1y4lEWb",
+          "url": "https://cdn.chec.io/merchants/27164/assets/VZGK3IkE9uQcFPLf|klev.jpg",
+          "description": null,
+          "is_image": true,
+          "image_dimensions": {
+            "width": 1464,
+            "height": 976
+          },
+          "meta": [
+
+          ],
+          "created_at": 1633706786,
+          "updated_at": 1633706790,
+          "data": {
+            "name": "klev.jpg",
+            "ext": "jpg",
+            "size": 419629
+          },
+          "merchant_id": 27164
+        },
+        "related_products": [
+
+        ],
+        "extrafields": [
+
+        ],
+        "variants": [
+
+        ]
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "total": 14,
+        "count": 14,
+        "per_page": 20,
+        "current_page": 1,
+        "total_pages": 1,
+        "links": {
+
+        }
+      }
+    }
+  }
+}

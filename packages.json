@@ -1,0 +1,50 @@
+{
+    "packages": {
+        "data": [
+            {
+                "id": 1,
+                "package_name": "Package #1",
+                "permalink": "package1",
+                "features": 5,
+                "created_by": "TEST_USER_M",
+                "last_reviewed_by": "TEST_USER_C",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "date_approved": null
+            },
+            {
+                "id": 2,
+                "package_name": "package #2",
+                "permalink": "package2",
+                "features": 4,
+                "created_by": "BA_TESTER_M",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "date_approved": null
+            },
+            {
+                "id": 3,
+                "package_name": "package #3",
+                "permalink": "package3",
+                "features": 6,
+                "created_by": "BA_TESTER",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-03-09T16:33:58.014Z",
+                "date_modified": "2023-03-09T16:33:58.014Z",
+                "date_approved": null
+            },
+            {
+                "id": 4,
+                "package_name": "package #3",
+                "permalink": "package4",
+                "features": 6,
+                "created_by": "BA_TESTER",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-03-16T09:26:20.349Z",
+                "date_modified": "2023-03-16T09:26:20.349Z",
+                "date_approved": null
+            }
+        ]
+    }
+}
