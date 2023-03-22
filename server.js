@@ -37,14 +37,29 @@ server.get("/", (req, res) => {
   });
 });
 
+server.get("/menus", (req, res) => {
+  try {
+    let menus = db.menus.data.map((d) => d);
+  
+    res.json({
+      message: "List of todo status",
+      data: menus
+    });
+  } catch (e) {
+    console.error(e);
+  }
+})
+
+
 server.get("/list-todos", (req, res) => {
   try {
     let todos = db.todos.data.map((d) => d);
-  
+
     res.json({
       message: "List of todos",
       data: todos,
     });
+
   } catch (e) {
     console.error(e);
   }

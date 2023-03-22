@@ -1,4 +1,21 @@
 {
+    "menus": {
+        "data": [
+            {
+                "id": 1,
+                "menu_id": 1,
+                "name": "Todo List",
+                "permalink": "/admin"
+            },
+            {
+                "id": 2,
+                "menu_id": 2,
+                "name": "Todo Settings",
+                "permalink": "/admin/todo-settings"
+            }
+        ]
+    },
+
     "todos_status": {
         "data": [
             {
@@ -15,6 +32,11 @@
                 "id": 3,
                 "status_code": 3,
                 "name": "In Progress"
+            },
+            {
+                "id": 4,
+                "status_code": 4,
+                "name": "Open"
             }
         ]
     },
@@ -54,7 +76,19 @@
                 "last_reviewed_by": "USER_C",
                 "date_added": "2023-03-09T16:33:39.908Z",
                 "date_modified": "2023-03-09T16:33:39.908Z",
-                "status": 1
+                "status": 3
+            },
+            {
+                "id": 2,
+                "todo_name": "feature/store-data",
+                "percentage": "60",
+                "type": 1,
+                "description": "Tugas ini adalah membangun fitur untuk data store",
+                "created_by": "USER_B",
+                "last_reviewed_by": "USER_C",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "status": 2
             }
         ]
     }
