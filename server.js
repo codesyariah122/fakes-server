@@ -1,7 +1,7 @@
 import express from "express";
 import jsonServer from "json-server";
 import dotenv from "dotenv";
-import db from "./packages.json";
+import db from "./todos.json";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
 import fs from "fs";
@@ -14,7 +14,7 @@ const server = jsonServer.create();
 const router = jsonServer.router("packages.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 6666;
-const baseUrl = process.env.BASEURL || "http://localhost"
+const baseUrl = process.env.BASEURL || "http://localhost:6666"
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 server.use(middlewares);
@@ -37,18 +37,44 @@ server.get("/", (req, res) => {
   });
 });
 
-server.get("/packages", (req, res) => {
+server.get("/list-todos", (req, res) => {
   try {
-    let packages = db.packages.data.map((d) => d);
-
+    let todos = db.todos.data.map((d) => d);
+  
     res.json({
-      message: "List of packages",
-      data: packages,
+      message: "List of todos",
+      data: todos,
     });
   } catch (e) {
     console.error(e);
   }
 });
+
+server.get("/todos-status", (req, res) => {
+  try {
+    let todosStatus = db.todos_status.data.map((d) => d);
+  
+    res.json({
+      message: "List of todo status",
+      data: todosStatus
+    });
+  } catch (e) {
+    console.error(e);
+  }
+})
+
+server.get("/todos-type", (req, res) => {
+  try {
+    let todoType= db.todos_type.data.map((d) => d);
+  
+    res.json({
+      message: "List of todo type",
+      data: todoType
+    });
+  } catch (e) {
+    console.error(e);
+  }
+})
 
 server.get("/packages/:permalink", (req, res) => {
   let permalink = req.params.permalink;

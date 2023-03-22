@@ -1,0 +1,61 @@
+{
+    "todos_status": {
+        "data": [
+            {
+                "id": 1,
+                "status_code": 1,
+                "name": "Done"
+            },
+            {
+                "id": 2,
+                "status_code": 2,
+                "name": "Pending"
+            },
+            {
+                "id": 3,
+                "status_code": 3,
+                "name": "In Progress"
+            }
+        ]
+    },
+
+    "todos_type": {
+        "data": [
+            {
+                "id": 1,
+                "todo_type_id": 1,
+                "name": "Feature",
+                "permalink": "feature"
+            },
+            {
+                "id": 2,
+                "todo_type_id": 2,
+                "name": "Bug",
+                "permalink": "bug"
+            },
+            {
+                "id": 3,
+                "todo_type_id": 3,
+                "name": "Improvement",
+                "permalink": "improvement"
+            }
+        ]
+    },
+
+    "todos": {
+        "data": [
+            {
+                "id": 1,
+                "todo_name": "feature/product-data",
+                "percentage": "70",
+                "type": 1,
+                "description": "Tugas ini adalah membangun fitur untuk data product",
+                "created_by": "USER_A",
+                "last_reviewed_by": "USER_C",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "status": 1
+            }
+        ]
+    }
+}
