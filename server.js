@@ -42,7 +42,7 @@ server.get("/menus", (req, res) => {
     let menus = db.menus.data.map((d) => d);
   
     res.json({
-      message: "List of todo status",
+      message: "List of todo menus",
       data: menus
     });
   } catch (e) {

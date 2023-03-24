@@ -69,7 +69,7 @@
             {
                 "id": 1,
                 "todo_name": "feature/product-data",
-                "percentage": "70",
+                "percentage": 70,
                 "type": 1,
                 "description": "Tugas ini adalah membangun fitur untuk data product",
                 "created_by": "USER_A",
@@ -81,7 +81,7 @@
             {
                 "id": 2,
                 "todo_name": "feature/store-data",
-                "percentage": "60",
+                "percentage": 50,
                 "type": 1,
                 "description": "Tugas ini adalah membangun fitur untuk data store",
                 "created_by": "USER_B",
@@ -89,6 +89,18 @@
                 "date_added": "2023-03-09T16:33:39.908Z",
                 "date_modified": "2023-03-09T16:33:39.908Z",
                 "status": 2
+            },
+            {
+                "id": 3,
+                "todo_name": "feature/admin-data",
+                "percentage": 10,
+                "type": 1,
+                "description": "Tugas ini adalah membangun fitur untuk data admin",
+                "created_by": "USER_B",
+                "last_reviewed_by": "USER_C",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "status": 1
             }
         ]
     }
