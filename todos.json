@@ -15,7 +15,6 @@
             }
         ]
     },
-
     "todos_status": {
         "data": [
             {
@@ -40,7 +39,6 @@
             }
         ]
     },
-
     "todos_type": {
         "data": [
             {
@@ -63,7 +61,6 @@
             }
         ]
     },
-
     "todos": {
         "data": [
             {
@@ -71,7 +68,7 @@
                 "todo_name": "feature/product-data",
                 "percentage": 70,
                 "type": 1,
-                "description": "Tugas ini adalah membangun fitur untuk data product",
+                "description": "Tugas ini adalah membangun fitur untuk product data",
                 "created_by": "USER_A",
                 "last_reviewed_by": "USER_C",
                 "date_added": "2023-03-09T16:33:39.908Z",
@@ -101,6 +98,24 @@
                 "date_added": "2023-03-09T16:33:39.908Z",
                 "date_modified": "2023-03-09T16:33:39.908Z",
                 "status": 1
+            },
+            {
+                "id": 4,
+                "todo_name": "package #3",
+                "created_by": "BA_TESTER",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-03-31T03:47:17.624Z",
+                "date_modified": "2023-03-31T03:47:17.624Z",
+                "date_approved": null
+            },
+            {
+                "id": 5,
+                "todo_name": "package #4",
+                "created_by": "BA_TESTER",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-03-31T03:47:38.293Z",
+                "date_modified": "2023-03-31T03:47:38.293Z",
+                "date_approved": null
             }
         ]
     }

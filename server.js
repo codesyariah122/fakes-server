@@ -103,8 +103,9 @@ server.get("/packages/:permalink", (req, res) => {
   });
 });
 
-server.post("/package/add", (req, res) => {
+server.post("/todos/add", (req, res) => {
   const postData = req.body;
+  console.log(postData)
   const addData = JSON.stringify(postData);
   const newData = JSON.parse(addData);
   const date = new Date();
@@ -117,12 +118,12 @@ server.post("/package/add", (req, res) => {
     date.getSeconds()
   );
 
-  fs.readFile("./packages.json", "utf-8", (err, data) => {
+  fs.readFile("./todos.json", "utf-8", (err, data) => {
     const databases = JSON.parse(data);
-    const packages = databases.packages.data.map((d) => d);
-    const find = packages.find((d) => d.package_name === postData.pacakge_name);
+    const todos = databases.todos.data.map((d) => d);
+    const find = todos.find((d) => d.todo_name === postData.todo_name);
     const lastId =
-      find === undefined ? parseInt(packages.pop().id) : parseInt(find.id);
+      find === undefined ? parseInt(todos.pop().id) : parseInt(find.id);
 
     if (err) {
       console.log(`Error add data : ${err}`);
@@ -134,13 +135,13 @@ server.post("/package/add", (req, res) => {
     } else {
       if (find) {
         res.status(401).json({
-          message: `${postData.package_name}, is already in databases`,
+          message: `${postData.todo_name}, is already in databases`,
         });
       } else {
         const finishData = {
           id: parseInt(lastId + 1),
-          package_name: newData.package_name,
-          features: newData.features,
+          todo_name: newData.todo_name,
+          percentage: newData.percentage,
           created_by: newData.created_by,
           last_reviewed_by: newData.last_reviewed_by,
           date_added: date,
@@ -148,10 +149,10 @@ server.post("/package/add", (req, res) => {
           date_approved: null,
         };
 
-        databases.packages.data.push(finishData);
+        databases.todos.data.push(finishData);
 
         fs.writeFile(
-          "./packages.json",
+          "./todos.json",
           JSON.stringify(databases, null, 4),
           (err) => {
             if (err) {
@@ -161,7 +162,7 @@ server.post("/package/add", (req, res) => {
         );
         res
           .json({
-            message: `${postData.package_name} has been added to database packages`,
+            message: `${postData.package_name} has been added to database todos`,
             data: finishData,
           })
           .status(200);
