@@ -141,13 +141,13 @@ server.post("/todos/add", (req, res) => {
         const finishData = {
           id: parseInt(lastId + 1),
           todo_name: newData.todo_name,
-          percentage: newData.percentage,
-          created_by: newData.created_by,
-          last_reviewed_by: newData.last_reviewed_by,
+          percentage: 0,
+          created_by: newData.created_by ? newData.created_by : null,
+          last_reviewed_by: newData.last_reviewed_by ? newData.last_reviewed_by : null,
           date_added: date,
           date_modified: date,
           date_approved: null,
-          status: parseInt(newData.status),
+          status: 4,
           type: newData.type,
           description: newData.description
         };

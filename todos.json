@@ -135,19 +135,6 @@
                 "status": 3,
                 "type": "2",
                 "description": "lorem dulu ajah lah"
-            },
-            {
-                "id": 7,
-                "todo_name": "bugfixing/feature-store-data",
-                "percentage": "7",
-                "created_by": "BA_TESTER",
-                "last_reviewed_by": "BA_TESTER_C",
-                "date_added": "2023-04-06T13:28:06.343Z",
-                "date_modified": "2023-04-06T13:28:06.343Z",
-                "date_approved": null,
-                "status": 3,
-                "type": "2",
-                "description": "lorem dulu ajah lah"
             }
         ]
     }
