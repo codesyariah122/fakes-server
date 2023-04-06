@@ -147,6 +147,9 @@ server.post("/todos/add", (req, res) => {
           date_added: date,
           date_modified: date,
           date_approved: null,
+          status: parseInt(newData.status),
+          type: newData.type,
+          description: newData.description
         };
 
         databases.todos.data.push(finishData);
@@ -162,7 +165,7 @@ server.post("/todos/add", (req, res) => {
         );
         res
           .json({
-            message: `${postData.package_name} has been added to database todos`,
+            message: `${postData.todo_name} has been added to database todos`,
             data: finishData,
           })
           .status(200);

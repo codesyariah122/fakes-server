@@ -101,21 +101,53 @@
             },
             {
                 "id": 4,
-                "todo_name": "package #3",
-                "created_by": "BA_TESTER",
-                "last_reviewed_by": "BA_TESTER_C",
-                "date_added": "2023-03-31T03:47:17.624Z",
-                "date_modified": "2023-03-31T03:47:17.624Z",
-                "date_approved": null
+                "todo_name": "feature/package-data",
+                "percentage": 10,
+                "type": 2,
+                "description": "Tugas ini adalah membangun fitur data package",
+                "created_by": "USER_C",
+                "last_reviewed_by": "USER_D",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "status": 3
             },
             {
                 "id": 5,
-                "todo_name": "package #4",
+                "todo_name": "feature/dashboard-data",
+                "percentage": 5,
+                "type": 2,
+                "description": "Tugas ini adalah membangun fitur data package",
+                "created_by": "USER_C",
+                "last_reviewed_by": "USER_D",
+                "date_added": "2023-03-09T16:33:39.908Z",
+                "date_modified": "2023-03-09T16:33:39.908Z",
+                "status": 3
+            },
+            {
+                "id": 6,
+                "todo_name": "bugfixing/feature-package-data",
+                "percentage": "6",
                 "created_by": "BA_TESTER",
                 "last_reviewed_by": "BA_TESTER_C",
-                "date_added": "2023-03-31T03:47:38.293Z",
-                "date_modified": "2023-03-31T03:47:38.293Z",
-                "date_approved": null
+                "date_added": "2023-04-06T13:27:15.652Z",
+                "date_modified": "2023-04-06T13:27:15.652Z",
+                "date_approved": null,
+                "status": 3,
+                "type": "2",
+                "description": "lorem dulu ajah lah"
+            },
+            {
+                "id": 7,
+                "todo_name": "bugfixing/feature-store-data",
+                "percentage": "7",
+                "created_by": "BA_TESTER",
+                "last_reviewed_by": "BA_TESTER_C",
+                "date_added": "2023-04-06T13:28:06.343Z",
+                "date_modified": "2023-04-06T13:28:06.343Z",
+                "date_approved": null,
+                "status": 3,
+                "type": "2",
+                "description": "lorem dulu ajah lah"
             }
         ]
     }
